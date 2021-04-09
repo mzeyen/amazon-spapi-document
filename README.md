@@ -1,24 +1,14 @@
-# spapi_v1
+![Banner](https://banners.beyondco.de/Amazon%20SPAPI.png?theme=light&packageManager=npm+install&packageName=%26%26+npm+run+serve&pattern=parkayFloor&style=style_1&description=Online+documentation+with+Swagger+UI&md=1&showWatermark=0&fontSize=100px&images=book-open)
+# [:spark:] Amazon SPAPI online documentation with Swagger UI.
 
-## Project setup
-```
-npm install
-```
+[View Demo](https://spapi.mijing.io)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Setup
 
-### Compiles and minifies for production
-```
-npm run build
+Clone or download this project zip file. run bellow command:
+
+``` bash
+cd project folder && npm install && npm run serve 
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+That's all;
