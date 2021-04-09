@@ -1,4 +1,8 @@
-import { createApp } from 'vue'
+import {createApp} from 'vue'
 import App from './App.vue'
 
-createApp(App).mount('#app')
+import './assets/main.css'
+import 'swagger-ui/dist/swagger-ui.css'
+import router from './router'
+
+createApp(App).use(router).mount('#app')
