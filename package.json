@@ -1,6 +1,6 @@
 {
-  "name": "spapi_v1",
-  "version": "0.1.0",
+  "name": "amazon_spapi",
+  "version": "1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
