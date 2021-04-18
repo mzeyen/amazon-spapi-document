@@ -28,7 +28,7 @@
         <section class="mb-12 max-w-full mx-auto flex-grow" id="swagger-ui-container">
           <div class="flex justify-center" v-if="child_json_collection.length > 0">
             <div
-                class="text-white rounded-md flex items-center justify-center bg-red-400 m-2 p-2"
+                class="text-white rounded-md flex items-center justify-center bg-red-400 m-2 p-2 cursor-pointer"
                 v-for="(child, idx) in child_json_collection"
                 :key="idx"
                 @click="childNavClick(idx)"
